@@ -1,2 +1,4 @@
 # test
-My first Git repository
+
+Repo for getting familiar with GitHub, Meteor and Nitrous.io
+
